@@ -1,0 +1,46 @@
+body {
+  background: #5bb897;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:rgb(27, 24, 26);
+}
+
+main {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
+
+input {
+  appearance: none;
+  -webkit-appearance: none;
+  border: 0;
+  font-size: 0.9rem;
+  background: #888;
+  padding: 1rem;
+  color: white;
+  cursor: pointer;
+}
+#submit{
+  border-radius: 5px;
+  color: rgb(23, 22, 22);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  background-color: #3b7e67;
+  border:5px solid #316c57;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+}
