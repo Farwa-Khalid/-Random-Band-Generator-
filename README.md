@@ -11,6 +11,11 @@ A fun Node.js + Express + EJS project that generates random band names using a c
 - Refresh or click "Generate Name" to get new suggestions instantly.  
 
 ---
+## 📸 Screenshot  
+
+![App Screenshot](./public/ss.png)
+
+ ---
 
 ## 🛠️ Tech Stack
 - **Node.js** (runtime)  
